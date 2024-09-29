@@ -1,1 +1,1 @@
-alert("please use headphone for more enjoying");
+alert("don't forget to give us your feedback");
